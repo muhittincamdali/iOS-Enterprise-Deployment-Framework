@@ -25,6 +25,22 @@
 
 </div>
 
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+![GitHub license](https://img.shields.io/github/license/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=muhittincamdali&color=brightgreen)
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhittincamdali&theme=radical)
+
+</div>
+
 ---
 
 ## 📋 Table of Contents
