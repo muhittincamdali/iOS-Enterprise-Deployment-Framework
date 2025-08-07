@@ -27,17 +27,7 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
-![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
-![GitHub license](https://img.shields.io/github/license/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=for-the-badge&logo=github)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=muhittincamdali&color=brightgreen)
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhittincamdali&theme=radical)
 
 </div>
 
@@ -263,7 +253,6 @@ let environmentConfig = EnvironmentConfiguration()
 // Configure development environment
 let devConfig = EnvironmentConfig(
     name: "Development",
-    apiBaseUrl: "https://dev-api.company.com",
     analyticsEnabled: true,
     loggingLevel: .debug,
     featureFlags: [
@@ -275,7 +264,6 @@ let devConfig = EnvironmentConfig(
 // Configure staging environment
 let stagingConfig = EnvironmentConfig(
     name: "Staging",
-    apiBaseUrl: "https://staging-api.company.com",
     analyticsEnabled: true,
     loggingLevel: .info,
     featureFlags: [
@@ -287,7 +275,6 @@ let stagingConfig = EnvironmentConfig(
 // Configure production environment
 let prodConfig = EnvironmentConfig(
     name: "Production",
-    apiBaseUrl: "https://api.company.com",
     analyticsEnabled: true,
     loggingLevel: .error,
     featureFlags: [
@@ -461,7 +448,6 @@ deploymentManager.executeDeployment(configuration: deploymentConfig) { progress 
 
 ```bash
 # Clone the repository
-git clone https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework.git
 
 # Navigate to project directory
 cd iOS-Enterprise-Deployment-Framework
@@ -479,7 +465,6 @@ Add the framework to your project:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework.git", from: "1.0.0")
 ]
 ```
 
@@ -502,7 +487,6 @@ deploymentManager.start(with: deploymentConfig)
 
 // Configure environment
 deploymentManager.configureEnvironment(.production) { config in
-    config.apiBaseUrl = "https://api.company.com"
     config.analyticsEnabled = true
     config.featureFlags = ["new_feature": false]
 }
@@ -587,7 +571,6 @@ deploymentConfig.autoApprove = false
 // Set security settings
 deploymentConfig.enableCodeSigning = true
 deploymentConfig.enableSecurityScanning = true
-deploymentConfig.enableAuditLogging = true
 deploymentConfig.dataProtectionLevel = .complete
 
 // Apply configuration
@@ -682,15 +665,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/network)
-[![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/commits/master)
 
 </div>
 
 ## 🌟 Stargazers
 
-[![Stargazers repo roster for @muhittincamdali/iOS-Enterprise-Deployment-Framework](https://reporoster.com/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers) 
