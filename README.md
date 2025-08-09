@@ -682,7 +682,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social&logo=github)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/network)
 [![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/pulls)
