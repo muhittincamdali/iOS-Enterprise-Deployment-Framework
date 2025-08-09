@@ -1,54 +1,6 @@
 # 🚀 iOS Enterprise Deployment Framework
 [![CI](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/actions/workflows/ci.yml)
 
-<!-- TOC START -->
-## Table of Contents
-- [🚀 iOS Enterprise Deployment Framework](#-ios-enterprise-deployment-framework)
-- [📋 Table of Contents](#-table-of-contents)
-- [🚀 Overview](#-overview)
-  - [🎯 What Makes This Framework Special?](#-what-makes-this-framework-special)
-- [✨ Key Features](#-key-features)
-  - [📱 Distribution Channels](#-distribution-channels)
-  - [🔧 Configuration Management](#-configuration-management)
-  - [⚡ CI/CD Integration](#-cicd-integration)
-  - [🔒 Enterprise Security](#-enterprise-security)
-- [📱 Distribution Channels](#-distribution-channels)
-  - [App Store Connect](#app-store-connect)
-  - [TestFlight Distribution](#testflight-distribution)
-  - [MDM Integration](#mdm-integration)
-- [🔧 Configuration Management](#-configuration-management)
-  - [Environment Configuration](#environment-configuration)
-  - [Feature Flags](#feature-flags)
-- [⚡ CI/CD Integration](#-cicd-integration)
-  - [Automated Build Pipeline](#automated-build-pipeline)
-  - [Automated Testing](#automated-testing)
-  - [Automated Deployment](#automated-deployment)
-- [🚀 Quick Start](#-quick-start)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Clone the repository](#clone-the-repository)
-- [Navigate to project directory](#navigate-to-project-directory)
-- [Install dependencies](#install-dependencies)
-- [Open in Xcode](#open-in-xcode)
-  - [Swift Package Manager](#swift-package-manager)
-  - [Basic Setup](#basic-setup)
-- [📱 Usage Examples](#-usage-examples)
-  - [Simple Deployment](#simple-deployment)
-  - [Multi-Channel Deployment](#multi-channel-deployment)
-- [🔧 Configuration](#-configuration)
-  - [Deployment Configuration](#deployment-configuration)
-- [📚 Documentation](#-documentation)
-  - [API Documentation](#api-documentation)
-  - [Integration Guides](#integration-guides)
-  - [Examples](#examples)
-- [🤝 Contributing](#-contributing)
-  - [Development Setup](#development-setup)
-  - [Code Standards](#code-standards)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
-- [📊 Project Statistics](#-project-statistics)
-- [🌟 Stargazers](#-stargazers)
-<!-- TOC END -->
 
 
 <div align="center">
@@ -733,7 +685,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social&logo=github)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers)
+[](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/muhittincamdali/iOS-Enterprise-Deployment-Framework?style=social)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/network)
 [![GitHub issues](https://img.shields.io/github/issues/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/muhittincamdali/iOS-Enterprise-Deployment-Framework)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/pulls)
