@@ -1,5 +1,42 @@
 # Performance Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance Documentation](#performance-documentation)
+- [Overview](#overview)
+- [Performance Metrics](#performance-metrics)
+  - [Deployment Performance](#deployment-performance)
+  - [Resource Usage](#resource-usage)
+- [Performance Optimizations](#performance-optimizations)
+  - [1. Asynchronous Operations](#1-asynchronous-operations)
+  - [2. Connection Pooling](#2-connection-pooling)
+  - [3. Intelligent Caching](#3-intelligent-caching)
+  - [4. Parallel Processing](#4-parallel-processing)
+  - [5. Compression and Optimization](#5-compression-and-optimization)
+- [Memory Management](#memory-management)
+  - [Efficient Memory Usage](#efficient-memory-usage)
+  - [Memory Monitoring](#memory-monitoring)
+- [Network Optimization](#network-optimization)
+  - [Bandwidth Optimization](#bandwidth-optimization)
+  - [Network Monitoring](#network-monitoring)
+- [Database Performance](#database-performance)
+  - [Query Optimization](#query-optimization)
+  - [Database Monitoring](#database-monitoring)
+- [Scalability Features](#scalability-features)
+  - [Horizontal Scaling](#horizontal-scaling)
+  - [Vertical Scaling](#vertical-scaling)
+- [Performance Testing](#performance-testing)
+  - [Load Testing](#load-testing)
+  - [Performance Benchmarks](#performance-benchmarks)
+- [Monitoring and Alerting](#monitoring-and-alerting)
+  - [Performance Monitoring](#performance-monitoring)
+  - [Performance Alerts](#performance-alerts)
+- [Optimization Guidelines](#optimization-guidelines)
+  - [Best Practices](#best-practices)
+  - [Performance Checklist](#performance-checklist)
+<!-- TOC END -->
+
+
 ## Overview
 
 The iOS Enterprise Deployment Framework is designed for high-performance enterprise deployments with optimized resource usage, efficient algorithms, and scalable architecture.

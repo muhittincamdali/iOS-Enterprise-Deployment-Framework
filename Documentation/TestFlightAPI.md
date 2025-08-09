@@ -1,5 +1,35 @@
 # TestFlight API
 
+<!-- TOC START -->
+## Table of Contents
+- [TestFlight API](#testflight-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [TestFlightManager](#testflightmanager)
+  - [TestFlightBuild](#testflightbuild)
+  - [TestFlightRelease](#testflightrelease)
+- [Usage Examples](#usage-examples)
+  - [Upload Build to TestFlight](#upload-build-to-testflight)
+  - [Create TestFlight Release](#create-testflight-release)
+- [Tester Management](#tester-management)
+  - [Tester](#tester)
+  - [Add Testers](#add-testers)
+- [Test Groups](#test-groups)
+  - [TestGroup](#testgroup)
+  - [Create Test Groups](#create-test-groups)
+- [Build Metadata](#build-metadata)
+  - [BuildMetadata](#buildmetadata)
+- [Error Handling](#error-handling)
+- [Automated Testing](#automated-testing)
+  - [TestFlightAutomation](#testflightautomation)
+  - [AutomatedTest](#automatedtest)
+- [Analytics and Monitoring](#analytics-and-monitoring)
+- [Best Practices](#best-practices)
+- [Integration with CI/CD](#integration-with-cicd)
+- [Security and Compliance](#security-and-compliance)
+<!-- TOC END -->
+
+
 ## Overview
 
 The TestFlight API provides comprehensive integration with Apple's TestFlight for beta testing, internal distribution, and automated build management.

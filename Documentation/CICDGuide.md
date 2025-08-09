@@ -1,5 +1,56 @@
 # CI/CD Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [CI/CD Guide](#cicd-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+  - [1. CI/CD Configuration](#1-cicd-configuration)
+  - [2. Project Configuration](#2-project-configuration)
+- [Basic CI/CD Pipeline](#basic-cicd-pipeline)
+  - [1. Build Stage](#1-build-stage)
+  - [2. Test Stage](#2-test-stage)
+  - [3. Deploy Stage](#3-deploy-stage)
+- [Advanced CI/CD Features](#advanced-cicd-features)
+  - [1. Multi-Environment Deployment](#1-multi-environment-deployment)
+  - [2. Automated Testing](#2-automated-testing)
+  - [3. Security Scanning](#3-security-scanning)
+- [Pipeline Configuration](#pipeline-configuration)
+  - [1. Build Configuration](#1-build-configuration)
+  - [2. Test Configuration](#2-test-configuration)
+  - [3. Deployment Configuration](#3-deployment-configuration)
+- [GitHub Actions Integration](#github-actions-integration)
+  - [1. GitHub Actions Workflow](#1-github-actions-workflow)
+  - [2. Automated Deployment](#2-automated-deployment)
+- [Jenkins Integration](#jenkins-integration)
+  - [1. Jenkins Pipeline](#1-jenkins-pipeline)
+  - [2. Jenkins Integration](#2-jenkins-integration)
+- [Performance Optimization](#performance-optimization)
+  - [1. Build Optimization](#1-build-optimization)
+  - [2. Test Optimization](#2-test-optimization)
+- [Error Handling and Rollback](#error-handling-and-rollback)
+  - [1. Automated Rollback](#1-automated-rollback)
+  - [2. Error Recovery](#2-error-recovery)
+- [Monitoring and Analytics](#monitoring-and-analytics)
+  - [1. Pipeline Analytics](#1-pipeline-analytics)
+  - [2. Performance Monitoring](#2-performance-monitoring)
+- [Best Practices](#best-practices)
+  - [1. Pipeline Design](#1-pipeline-design)
+  - [2. Security](#2-security)
+  - [3. Performance](#3-performance)
+  - [4. Reliability](#4-reliability)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Integration Examples](#integration-examples)
+  - [1. Complete CI/CD Pipeline](#1-complete-cicd-pipeline)
+  - [2. Multi-Platform CI/CD](#2-multi-platform-cicd)
+  - [3. Enterprise CI/CD](#3-enterprise-cicd)
+- [Next Steps](#next-steps)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for implementing Continuous Integration and Continuous Deployment (CI/CD) with the iOS Enterprise Deployment Framework. Learn how to set up automated build, test, and deployment pipelines.

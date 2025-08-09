@@ -1,5 +1,55 @@
 # Installation Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Installation Guide](#installation-guide)
+- [Prerequisites](#prerequisites)
+- [Installation Methods](#installation-methods)
+  - [Swift Package Manager (Recommended)](#swift-package-manager-recommended)
+    - [1. Add Package Dependency](#1-add-package-dependency)
+    - [2. Add to Target](#2-add-to-target)
+    - [3. Import in Code](#3-import-in-code)
+  - [Manual Installation](#manual-installation)
+    - [1. Clone Repository](#1-clone-repository)
+    - [2. Build Framework](#2-build-framework)
+    - [3. Add to Project](#3-add-to-project)
+- [Configuration](#configuration)
+  - [1. Basic Configuration](#1-basic-configuration)
+  - [2. Environment Setup](#2-environment-setup)
+    - [Development Environment](#development-environment)
+    - [Production Environment](#production-environment)
+  - [3. Security Configuration](#3-security-configuration)
+    - [Certificate Management](#certificate-management)
+    - [Network Security](#network-security)
+- [CLI Installation](#cli-installation)
+  - [1. Install CLI Tools](#1-install-cli-tools)
+- [Clone the repository](#clone-the-repository)
+- [Build CLI tools](#build-cli-tools)
+- [Install CLI (optional)](#install-cli-optional)
+  - [2. Verify CLI Installation](#2-verify-cli-installation)
+  - [3. CLI Usage Examples](#3-cli-usage-examples)
+- [Deploy an app](#deploy-an-app)
+- [Enroll a device](#enroll-a-device)
+- [Monitor deployment](#monitor-deployment)
+- [Generate report](#generate-report)
+- [Verification](#verification)
+  - [1. Test Installation](#1-test-installation)
+  - [2. Run Tests](#2-run-tests)
+- [Run all tests](#run-all-tests)
+- [Run specific test](#run-specific-test)
+  - [3. Check Dependencies](#3-check-dependencies)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+    - [1. Build Errors](#1-build-errors)
+    - [2. Import Errors](#2-import-errors)
+    - [3. Configuration Errors](#3-configuration-errors)
+    - [4. Runtime Errors](#4-runtime-errors)
+  - [Getting Help](#getting-help)
+- [Next Steps](#next-steps)
+- [Support](#support)
+<!-- TOC END -->
+
+
 This guide will help you install and set up the iOS Enterprise Deployment Framework in your project.
 
 ## Prerequisites

@@ -1,5 +1,40 @@
 # Getting Started Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Getting Started Guide](#getting-started-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [1. Clone the Repository](#1-clone-the-repository)
+  - [2. Install Dependencies](#2-install-dependencies)
+  - [3. Open in Xcode](#3-open-in-xcode)
+- [Quick Start](#quick-start)
+  - [1. Basic Setup](#1-basic-setup)
+  - [2. Configure Environment](#2-configure-environment)
+  - [3. Your First Deployment](#3-your-first-deployment)
+- [Core Concepts](#core-concepts)
+  - [Deployment Manager](#deployment-manager)
+  - [Deployment Configuration](#deployment-configuration)
+  - [Environments](#environments)
+  - [Distribution Channels](#distribution-channels)
+- [Configuration Examples](#configuration-examples)
+  - [App Store Deployment](#app-store-deployment)
+  - [TestFlight Deployment](#testflight-deployment)
+  - [MDM Deployment](#mdm-deployment)
+- [Best Practices](#best-practices)
+  - [1. Environment Management](#1-environment-management)
+  - [2. Security](#2-security)
+  - [3. Monitoring](#3-monitoring)
+  - [4. Rollback Strategy](#4-rollback-strategy)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Next Steps](#next-steps)
+- [Support](#support)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide will help you get started with the iOS Enterprise Deployment Framework. You'll learn how to set up the framework, configure your first deployment, and understand the core concepts.

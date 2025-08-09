@@ -1,5 +1,39 @@
 # API Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [API Documentation](#api-documentation)
+- [Overview](#overview)
+- [Core API](#core-api)
+  - [EnterpriseDeploymentManager](#enterprisedeploymentmanager)
+  - [DeploymentConfiguration](#deploymentconfiguration)
+  - [Deployment](#deployment)
+- [MDM API](#mdm-api)
+  - [MDMService](#mdmservice)
+  - [MDMConfiguration](#mdmconfiguration)
+- [Distribution API](#distribution-api)
+  - [AppDistributionService](#appdistributionservice)
+  - [DistributionConfiguration](#distributionconfiguration)
+- [Compliance API](#compliance-api)
+  - [ComplianceService](#complianceservice)
+  - [ComplianceConfiguration](#complianceconfiguration)
+- [Analytics API](#analytics-api)
+  - [AnalyticsService](#analyticsservice)
+  - [AnalyticsConfiguration](#analyticsconfiguration)
+- [CLI API](#cli-api)
+  - [EnterpriseDeploymentCLI](#enterprisedeploymentcli)
+- [Error Handling](#error-handling)
+  - [EnterpriseDeploymentError](#enterprisedeploymenterror)
+- [Usage Examples](#usage-examples)
+  - [Basic Deployment](#basic-deployment)
+  - [MDM Enrollment](#mdm-enrollment)
+  - [App Distribution](#app-distribution)
+- [Thread Safety](#thread-safety)
+- [Performance Considerations](#performance-considerations)
+- [Security Features](#security-features)
+<!-- TOC END -->
+
+
 ## Overview
 
 The iOS Enterprise Deployment Framework provides a comprehensive API for enterprise deployment operations. This document covers all public APIs and their usage.

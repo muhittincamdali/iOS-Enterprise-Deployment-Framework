@@ -1,5 +1,44 @@
 # Monitoring API
 
+<!-- TOC START -->
+## Table of Contents
+- [Monitoring API](#monitoring-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [MonitoringManager](#monitoringmanager)
+  - [MonitoringConfiguration](#monitoringconfiguration)
+  - [HealthCheck](#healthcheck)
+- [Usage Examples](#usage-examples)
+  - [Start Monitoring](#start-monitoring)
+  - [Set Alerts](#set-alerts)
+- [Health Monitoring](#health-monitoring)
+  - [HealthStatus](#healthstatus)
+  - [HealthCheckResult](#healthcheckresult)
+- [Performance Monitoring](#performance-monitoring)
+  - [PerformanceMetrics](#performancemetrics)
+  - [PerformanceMonitoring](#performancemonitoring)
+- [Alert Management](#alert-management)
+  - [Alert](#alert)
+  - [AlertSeverity](#alertseverity)
+  - [NotificationChannel](#notificationchannel)
+- [Metrics Collection](#metrics-collection)
+  - [MonitoringMetrics](#monitoringmetrics)
+  - [CustomMetrics](#custommetrics)
+- [Real-time Monitoring](#real-time-monitoring)
+  - [RealTimeMonitoring](#realtimemonitoring)
+  - [RealTimeStatus](#realtimestatus)
+- [Dashboard Integration](#dashboard-integration)
+  - [DashboardMetrics](#dashboardmetrics)
+  - [DashboardIntegration](#dashboardintegration)
+- [Error Handling](#error-handling)
+- [Best Practices](#best-practices)
+- [Integration with External Monitoring](#integration-with-external-monitoring)
+- [Advanced Features](#advanced-features)
+  - [Predictive Monitoring](#predictive-monitoring)
+  - [Automated Response](#automated-response)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Monitoring API provides comprehensive real-time monitoring capabilities for iOS enterprise applications, including health checks, performance monitoring, and alert management.

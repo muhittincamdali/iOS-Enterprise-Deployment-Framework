@@ -1,5 +1,21 @@
 # Performance Optimization
 
+<!-- TOC START -->
+## Table of Contents
+- [Performance Optimization](#performance-optimization)
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Installation (SPM)](#installation-spm)
+- [Quick Start](#quick-start)
+- [API Reference](#api-reference)
+- [Usage Examples](#usage-examples)
+- [Performance](#performance)
+- [Security](#security)
+- [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
+<!-- TOC END -->
+
+
 ## Overview
 This document belongs to the iOS Enterprise Deployment Framework repository. It explains goals, scope, and usage.
 

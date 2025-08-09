@@ -1,5 +1,36 @@
 # Security Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [Security Documentation](#security-documentation)
+- [Overview](#overview)
+- [Security Architecture](#security-architecture)
+  - [Multi-Layer Security Model](#multi-layer-security-model)
+- [Authentication & Authorization](#authentication-authorization)
+  - [OAuth 2.0 Implementation](#oauth-20-implementation)
+  - [JWT Token Management](#jwt-token-management)
+  - [Role-Based Access Control](#role-based-access-control)
+- [Encryption & Data Protection](#encryption-data-protection)
+  - [AES-256 Encryption](#aes-256-encryption)
+  - [Key Management](#key-management)
+  - [Data Protection Levels](#data-protection-levels)
+- [Network Security](#network-security)
+  - [TLS 1.3 Implementation](#tls-13-implementation)
+  - [Certificate Pinning](#certificate-pinning)
+- [Compliance & Auditing](#compliance-auditing)
+  - [GDPR Compliance](#gdpr-compliance)
+  - [HIPAA Compliance](#hipaa-compliance)
+  - [Audit Logging](#audit-logging)
+- [Threat Detection](#threat-detection)
+  - [Intrusion Detection](#intrusion-detection)
+  - [Anomaly Detection](#anomaly-detection)
+- [Security Best Practices](#security-best-practices)
+  - [Input Validation](#input-validation)
+  - [Secure Coding Practices](#secure-coding-practices)
+  - [Security Checklist](#security-checklist)
+<!-- TOC END -->
+
+
 ## Overview
 
 The iOS Enterprise Deployment Framework implements enterprise-grade security measures to protect sensitive data, ensure compliance, and maintain the integrity of deployment operations.

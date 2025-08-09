@@ -1,5 +1,27 @@
 # Configuration Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [Configuration Guide](#configuration-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Configuration Management](#configuration-management)
+  - [1. Environment-Specific Configuration](#1-environment-specific-configuration)
+    - [Example:](#example)
+  - [2. Feature Flags](#2-feature-flags)
+    - [Example:](#example)
+  - [3. Secure Configuration](#3-secure-configuration)
+    - [Example:](#example)
+  - [4. Dynamic Configuration Updates](#4-dynamic-configuration-updates)
+    - [Example:](#example)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Next Steps](#next-steps)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for managing configuration in the iOS Enterprise Deployment Framework. Learn how to set up environment-specific settings, manage feature flags, and implement secure, dynamic configuration updates.

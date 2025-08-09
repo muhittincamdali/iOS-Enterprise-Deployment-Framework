@@ -1,5 +1,29 @@
 # App Store API
 
+<!-- TOC START -->
+## Table of Contents
+- [App Store API](#app-store-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [AppStoreManager](#appstoremanager)
+  - [AppStoreApp](#appstoreapp)
+  - [AppStoreRelease](#appstorerelease)
+- [Usage Examples](#usage-examples)
+  - [Submit App to App Store](#submit-app-to-app-store)
+  - [Create Release](#create-release)
+- [Metadata Management](#metadata-management)
+  - [AppStoreMetadata](#appstoremetadata)
+  - [Update App Metadata](#update-app-metadata)
+- [Compliance and Security](#compliance-and-security)
+  - [ComplianceInfo](#complianceinfo)
+  - [EncryptionInfo](#encryptioninfo)
+- [Error Handling](#error-handling)
+- [Best Practices](#best-practices)
+- [Integration with CI/CD](#integration-with-cicd)
+- [Analytics and Monitoring](#analytics-and-monitoring)
+<!-- TOC END -->
+
+
 ## Overview
 
 The App Store API provides comprehensive integration with Apple's App Store Connect for automated app submission, release management, and distribution.

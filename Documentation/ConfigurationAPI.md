@@ -1,5 +1,43 @@
 # Configuration API
 
+<!-- TOC START -->
+## Table of Contents
+- [Configuration API](#configuration-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [ConfigurationManager](#configurationmanager)
+  - [AppConfiguration](#appconfiguration)
+- [Usage Examples](#usage-examples)
+  - [Load Configuration](#load-configuration)
+  - [Feature Flags](#feature-flags)
+- [Environment Management](#environment-management)
+  - [Environment](#environment)
+  - [Environment-Specific Configuration](#environment-specific-configuration)
+- [Feature Flag Management](#feature-flag-management)
+  - [FeatureFlag](#featureflag)
+  - [Feature Flag Operations](#feature-flag-operations)
+- [Security Settings](#security-settings)
+  - [SecuritySettings](#securitysettings)
+  - [Data Protection](#data-protection)
+- [Deployment Settings](#deployment-settings)
+  - [DeploymentSettings](#deploymentsettings)
+  - [Update Channel](#update-channel)
+- [Dynamic Configuration](#dynamic-configuration)
+  - [ConfigurationUpdate](#configurationupdate)
+  - [ConfigurationChange](#configurationchange)
+- [Configuration Validation](#configuration-validation)
+  - [ConfigurationValidator](#configurationvalidator)
+  - [ValidationResult](#validationresult)
+- [Error Handling](#error-handling)
+- [Analytics and Monitoring](#analytics-and-monitoring)
+- [Best Practices](#best-practices)
+- [Integration with External Systems](#integration-with-external-systems)
+- [Advanced Features](#advanced-features)
+  - [Configuration Encryption](#configuration-encryption)
+  - [Configuration Backup](#configuration-backup)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Configuration API provides comprehensive configuration management capabilities for iOS enterprise applications, including environment-specific settings, feature flags, and dynamic configuration updates.

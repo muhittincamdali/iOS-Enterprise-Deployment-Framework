@@ -1,5 +1,38 @@
 # MDM API
 
+<!-- TOC START -->
+## Table of Contents
+- [MDM API](#mdm-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [MDMManager](#mdmmanager)
+  - [MDMDevice](#mdmdevice)
+  - [MDMApp](#mdmapp)
+- [Usage Examples](#usage-examples)
+  - [Enroll Device](#enroll-device)
+  - [Distribute App](#distribute-app)
+- [Policy Management](#policy-management)
+  - [MDMPolicy](#mdmpolicy)
+  - [Apply Policy](#apply-policy)
+- [Device Status Management](#device-status-management)
+  - [DeviceStatus](#devicestatus)
+  - [Device Monitoring](#device-monitoring)
+- [App Distribution](#app-distribution)
+  - [InstallationType](#installationtype)
+  - [Distribution Methods](#distribution-methods)
+- [Security and Compliance](#security-and-compliance)
+  - [ComplianceStatus](#compliancestatus)
+  - [ComplianceViolation](#complianceviolation)
+- [Error Handling](#error-handling)
+- [Analytics and Reporting](#analytics-and-reporting)
+- [Best Practices](#best-practices)
+- [Integration with Enterprise Systems](#integration-with-enterprise-systems)
+- [Advanced Features](#advanced-features)
+  - [Conditional Access](#conditional-access)
+  - [Automated Remediation](#automated-remediation)
+<!-- TOC END -->
+
+
 ## Overview
 
 The MDM (Mobile Device Management) API provides comprehensive enterprise device management capabilities for iOS applications, including device enrollment, app distribution, and policy management.

@@ -1,5 +1,44 @@
 # App Store Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [App Store Guide](#app-store-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+  - [1. App Store Connect API Configuration](#1-app-store-connect-api-configuration)
+  - [2. Configure API Credentials](#2-configure-api-credentials)
+  - [3. App Store Connect App Setup](#3-app-store-connect-app-setup)
+- [Basic App Store Deployment](#basic-app-store-deployment)
+  - [1. Create App Store App](#1-create-app-store-app)
+  - [2. Configure App Metadata](#2-configure-app-metadata)
+  - [3. Submit App to App Store](#3-submit-app-to-app-store)
+- [Advanced App Store Features](#advanced-app-store-features)
+  - [1. Release Management](#1-release-management)
+  - [2. Phased Releases](#2-phased-releases)
+  - [3. Compliance and Security](#3-compliance-and-security)
+- [Automated App Store Deployment](#automated-app-store-deployment)
+  - [1. CI/CD Integration](#1-cicd-integration)
+  - [2. Automated Submission Pipeline](#2-automated-submission-pipeline)
+- [App Store Analytics](#app-store-analytics)
+  - [1. Track App Store Metrics](#1-track-app-store-metrics)
+  - [2. App Store Metrics](#2-app-store-metrics)
+- [Best Practices](#best-practices)
+  - [1. App Store Guidelines](#1-app-store-guidelines)
+  - [2. Metadata Management](#2-metadata-management)
+  - [3. Release Strategy](#3-release-strategy)
+  - [4. Compliance and Security](#4-compliance-and-security)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Integration Examples](#integration-examples)
+  - [1. Automated App Store Deployment](#1-automated-app-store-deployment)
+  - [2. Multi-Language Support](#2-multi-language-support)
+  - [3. App Store Optimization](#3-app-store-optimization)
+- [Next Steps](#next-steps)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for deploying iOS applications to the App Store using the iOS Enterprise Deployment Framework. Learn how to configure App Store Connect integration, manage app submissions, and automate the release process.

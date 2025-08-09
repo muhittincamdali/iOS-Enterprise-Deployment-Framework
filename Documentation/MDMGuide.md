@@ -1,5 +1,50 @@
 # MDM Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [MDM Guide](#mdm-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+  - [1. MDM Server Configuration](#1-mdm-server-configuration)
+  - [2. Apple Developer Enterprise Setup](#2-apple-developer-enterprise-setup)
+- [Basic MDM Operations](#basic-mdm-operations)
+  - [1. Device Enrollment](#1-device-enrollment)
+  - [2. App Distribution](#2-app-distribution)
+  - [3. Policy Management](#3-policy-management)
+- [Advanced MDM Features](#advanced-mdm-features)
+  - [1. Conditional Access](#1-conditional-access)
+  - [2. Automated Remediation](#2-automated-remediation)
+  - [3. Device Monitoring](#3-device-monitoring)
+- [Security and Compliance](#security-and-compliance)
+  - [1. Compliance Management](#1-compliance-management)
+  - [2. Security Policies](#2-security-policies)
+- [App Management](#app-management)
+  - [1. Installation Types](#1-installation-types)
+  - [2. App Distribution Methods](#2-app-distribution-methods)
+  - [3. App Updates](#3-app-updates)
+- [Enterprise Integration](#enterprise-integration)
+  - [1. Active Directory Integration](#1-active-directory-integration)
+  - [2. SSO Configuration](#2-sso-configuration)
+- [Analytics and Reporting](#analytics-and-reporting)
+  - [1. MDM Analytics](#1-mdm-analytics)
+  - [2. Compliance Reporting](#2-compliance-reporting)
+- [Best Practices](#best-practices)
+  - [1. Device Management](#1-device-management)
+  - [2. App Distribution](#2-app-distribution)
+  - [3. Security](#3-security)
+  - [4. Compliance](#4-compliance)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Integration Examples](#integration-examples)
+  - [1. Automated Device Management](#1-automated-device-management)
+  - [2. Multi-Platform MDM](#2-multi-platform-mdm)
+  - [3. Enterprise Security Suite](#3-enterprise-security-suite)
+- [Next Steps](#next-steps)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for implementing Mobile Device Management (MDM) with the iOS Enterprise Deployment Framework. Learn how to configure MDM, enroll devices, distribute apps, and manage enterprise policies.

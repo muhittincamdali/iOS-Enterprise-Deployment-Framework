@@ -1,5 +1,46 @@
 # TestFlight Guide
 
+<!-- TOC START -->
+## Table of Contents
+- [TestFlight Guide](#testflight-guide)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+  - [1. TestFlight API Configuration](#1-testflight-api-configuration)
+  - [2. App Store Connect Setup](#2-app-store-connect-setup)
+- [Basic TestFlight Usage](#basic-testflight-usage)
+  - [1. Upload Build to TestFlight](#1-upload-build-to-testflight)
+  - [2. Create TestFlight Release](#2-create-testflight-release)
+- [Tester Management](#tester-management)
+  - [1. Add Testers](#1-add-testers)
+  - [2. Create Test Groups](#2-create-test-groups)
+  - [3. Manage Tester Access](#3-manage-tester-access)
+- [Build Management](#build-management)
+  - [1. Build Metadata](#1-build-metadata)
+  - [2. Build Processing](#2-build-processing)
+- [Advanced TestFlight Features](#advanced-testflight-features)
+  - [1. Automated Testing](#1-automated-testing)
+  - [2. TestFlight Analytics](#2-testflight-analytics)
+  - [3. Feedback Management](#3-feedback-management)
+- [CI/CD Integration](#cicd-integration)
+  - [1. Automated TestFlight Pipeline](#1-automated-testflight-pipeline)
+  - [2. Automated Build Upload](#2-automated-build-upload)
+- [Best Practices](#best-practices)
+  - [1. Tester Management](#1-tester-management)
+  - [2. Build Management](#2-build-management)
+  - [3. Release Strategy](#3-release-strategy)
+  - [4. Communication](#4-communication)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Getting Help](#getting-help)
+- [Integration Examples](#integration-examples)
+  - [1. Automated TestFlight Distribution](#1-automated-testflight-distribution)
+  - [2. Multi-Environment Testing](#2-multi-environment-testing)
+  - [3. Feedback Integration](#3-feedback-integration)
+- [Next Steps](#next-steps)
+<!-- TOC END -->
+
+
 ## Overview
 
 This guide provides comprehensive instructions for using TestFlight for beta testing and internal distribution with the iOS Enterprise Deployment Framework. Learn how to configure TestFlight, manage beta testers, and automate the distribution process.

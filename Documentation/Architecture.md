@@ -1,5 +1,49 @@
 # Architecture Documentation
 
+<!-- TOC START -->
+## Table of Contents
+- [Architecture Documentation](#architecture-documentation)
+- [Overview](#overview)
+- [Architecture Principles](#architecture-principles)
+  - [Clean Architecture](#clean-architecture)
+  - [SOLID Principles](#solid-principles)
+- [Core Components](#core-components)
+  - [1. EnterpriseDeploymentManager](#1-enterprisedeploymentmanager)
+  - [2. Service Layer](#2-service-layer)
+    - [MDMService](#mdmservice)
+    - [AppDistributionService](#appdistributionservice)
+    - [ComplianceService](#complianceservice)
+    - [AnalyticsService](#analyticsservice)
+  - [3. Configuration Management](#3-configuration-management)
+- [Data Flow](#data-flow)
+  - [Deployment Flow](#deployment-flow)
+  - [Device Enrollment Flow](#device-enrollment-flow)
+- [Security Architecture](#security-architecture)
+  - [Multi-Layer Security](#multi-layer-security)
+- [Scalability Design](#scalability-design)
+  - [Horizontal Scaling](#horizontal-scaling)
+  - [Performance Optimization](#performance-optimization)
+  - [High Availability](#high-availability)
+- [Error Handling](#error-handling)
+  - [Comprehensive Error Management](#comprehensive-error-management)
+  - [Error Recovery Strategies](#error-recovery-strategies)
+- [Monitoring & Observability](#monitoring-observability)
+  - [Metrics Collection](#metrics-collection)
+  - [Logging Strategy](#logging-strategy)
+  - [Alerting](#alerting)
+- [Testing Strategy](#testing-strategy)
+  - [Test Pyramid](#test-pyramid)
+  - [Test Types](#test-types)
+- [Deployment Architecture](#deployment-architecture)
+  - [CI/CD Pipeline](#cicd-pipeline)
+  - [Environment Strategy](#environment-strategy)
+- [Future Considerations](#future-considerations)
+  - [Scalability Enhancements](#scalability-enhancements)
+  - [Security Enhancements](#security-enhancements)
+  - [Performance Optimizations](#performance-optimizations)
+<!-- TOC END -->
+
+
 ## Overview
 
 The iOS Enterprise Deployment Framework follows a clean, modular architecture designed for enterprise-grade scalability, security, and maintainability. This document outlines the architectural decisions, patterns, and components.

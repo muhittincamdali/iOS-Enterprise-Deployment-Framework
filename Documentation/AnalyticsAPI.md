@@ -1,5 +1,43 @@
 # Analytics API
 
+<!-- TOC START -->
+## Table of Contents
+- [Analytics API](#analytics-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [AnalyticsManager](#analyticsmanager)
+  - [AnalyticsConfiguration](#analyticsconfiguration)
+  - [AnalyticsEvent](#analyticsevent)
+- [Usage Examples](#usage-examples)
+  - [Track Custom Event](#track-custom-event)
+  - [Track Deployment Analytics](#track-deployment-analytics)
+- [Deployment Analytics](#deployment-analytics)
+  - [DeploymentAnalytics](#deploymentanalytics)
+  - [Deployment Metrics](#deployment-metrics)
+- [Performance Analytics](#performance-analytics)
+  - [PerformanceMetrics](#performancemetrics)
+  - [Performance Monitoring](#performance-monitoring)
+- [User Analytics](#user-analytics)
+  - [UserBehavior](#userbehavior)
+  - [UserAction](#useraction)
+- [Report Generation](#report-generation)
+  - [ReportType](#reporttype)
+  - [AnalyticsReport](#analyticsreport)
+- [Privacy and Security](#privacy-and-security)
+  - [PrivacySettings](#privacysettings)
+  - [DataSharingPolicy](#datasharingpolicy)
+- [Error Handling](#error-handling)
+- [Real-time Analytics](#real-time-analytics)
+  - [RealTimeAnalytics](#realtimeanalytics)
+  - [RealTimeMetrics](#realtimemetrics)
+- [Best Practices](#best-practices)
+- [Integration with External Analytics](#integration-with-external-analytics)
+- [Advanced Features](#advanced-features)
+  - [Predictive Analytics](#predictive-analytics)
+  - [Machine Learning Integration](#machine-learning-integration)
+<!-- TOC END -->
+
+
 ## Overview
 
 The Analytics API provides comprehensive analytics and tracking capabilities for iOS enterprise applications, including deployment analytics, user behavior tracking, and performance monitoring.

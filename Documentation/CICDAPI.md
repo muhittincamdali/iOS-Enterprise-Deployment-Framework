@@ -1,5 +1,42 @@
 # CI/CD API
 
+<!-- TOC START -->
+## Table of Contents
+- [CI/CD API](#cicd-api)
+- [Overview](#overview)
+- [Core Classes](#core-classes)
+  - [CICDManager](#cicdmanager)
+  - [CICDConfiguration](#cicdconfiguration)
+  - [CICDProject](#cicdproject)
+- [Usage Examples](#usage-examples)
+  - [Build Project](#build-project)
+  - [Run Complete Pipeline](#run-complete-pipeline)
+- [Build Management](#build-management)
+  - [BuildConfiguration](#buildconfiguration)
+  - [BuildResult](#buildresult)
+- [Testing Integration](#testing-integration)
+  - [TestConfiguration](#testconfiguration)
+  - [TestResult](#testresult)
+- [Deployment Management](#deployment-management)
+  - [DeploymentConfiguration](#deploymentconfiguration)
+  - [DeploymentResult](#deploymentresult)
+- [Pipeline Management](#pipeline-management)
+  - [CICDPipeline](#cicdpipeline)
+  - [PipelineStage](#pipelinestage)
+- [Security and Quality](#security-and-quality)
+  - [SecurityScan](#securityscan)
+  - [CodeQuality](#codequality)
+- [Error Handling](#error-handling)
+- [Analytics and Monitoring](#analytics-and-monitoring)
+- [Best Practices](#best-practices)
+- [Integration with External Tools](#integration-with-external-tools)
+- [Advanced Features](#advanced-features)
+  - [Conditional Pipelines](#conditional-pipelines)
+  - [Automated Rollback](#automated-rollback)
+  - [Performance Optimization](#performance-optimization)
+<!-- TOC END -->
+
+
 ## Overview
 
 The CI/CD API provides comprehensive continuous integration and continuous deployment capabilities for iOS applications, enabling automated build, test, and deployment pipelines.
