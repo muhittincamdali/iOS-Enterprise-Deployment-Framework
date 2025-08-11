@@ -697,3 +697,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Stargazers
 
 [![Stargazers repo roster for @muhittincamdali/iOS-Enterprise-Deployment-Framework](https://starchart.cc/muhittincamdali/iOS-Enterprise-Deployment-Framework.svg)](https://github.com/muhittincamdali/iOS-Enterprise-Deployment-Framework/stargazers) 
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=muhittincamdali/iOS-Enterprise-Deployment-Framework&type=Date)](https://star-history.com/#muhittincamdali/iOS-Enterprise-Deployment-Framework&Date)
+
