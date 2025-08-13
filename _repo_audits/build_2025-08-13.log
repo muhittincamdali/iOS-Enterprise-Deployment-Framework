@@ -1,0 +1,26 @@
+[1/1] Compiling plugin GenerateManual
+[2/2] Compiling plugin GenerateDoccReference
+Building for debugging...
+[2/6] Write swift-version--58304C5D6DBC2206.txt
+error: emit-module command failed with exit code 1 (use -v to see invocation)
+[4/9] Emitting module EnterpriseDeploymentCore
+/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Sources/Core/MainFramework.swift:2:8: error: no such module 'UIKit'
+  1 | import Foundation
+  2 | import UIKit
+    |        `- error: no such module 'UIKit'
+  3 | 
+  4 | /**
+[5/9] Compiling EnterpriseDeploymentCore EnterpriseDeploymentCore.swift
+/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Sources/Core/MainFramework.swift:2:8: error: no such module 'UIKit'
+  1 | import Foundation
+  2 | import UIKit
+    |        `- error: no such module 'UIKit'
+  3 | 
+  4 | /**
+[6/9] Compiling EnterpriseDeploymentCore MainFramework.swift
+/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Sources/Core/MainFramework.swift:2:8: error: no such module 'UIKit'
+  1 | import Foundation
+  2 | import UIKit
+    |        `- error: no such module 'UIKit'
+  3 | 
+  4 | /**
