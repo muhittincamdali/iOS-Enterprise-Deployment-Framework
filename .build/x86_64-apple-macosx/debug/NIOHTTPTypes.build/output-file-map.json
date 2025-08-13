@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOHTTPTypes/NIOHTTPTypes.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swiftdeps"
+  }
+}

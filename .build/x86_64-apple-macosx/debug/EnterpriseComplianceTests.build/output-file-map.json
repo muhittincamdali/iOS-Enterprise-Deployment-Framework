@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseComplianceTests.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Tests/Compliance/EnterpriseComplianceTests.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseComplianceTests.build/EnterpriseComplianceTests.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseComplianceTests.build/EnterpriseComplianceTests.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseComplianceTests.build/EnterpriseComplianceTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseComplianceTests.build/EnterpriseComplianceTests.swiftdeps"
+  }
+}

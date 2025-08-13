@@ -1,0 +1,4 @@
+module EnterpriseDeploymentCore {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/EnterpriseDeploymentCore-Swift.h"
+    requires objc
+}

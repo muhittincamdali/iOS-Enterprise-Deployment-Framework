@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Sources/Core/EnterpriseDeploymentCore.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/EnterpriseDeploymentCore.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/EnterpriseDeploymentCore.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/EnterpriseDeploymentCore~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/EnterpriseDeploymentCore.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/Sources/Core/MainFramework.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/MainFramework.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/MainFramework.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/MainFramework~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseDeploymentCore.build/MainFramework.swiftdeps"
+  }
+}

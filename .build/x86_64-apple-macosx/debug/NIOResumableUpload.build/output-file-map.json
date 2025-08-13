@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/master.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUpload.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUpload.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUpload.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUpload~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUpload.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadChannel.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadChannel.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadContext.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadContext.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadContext.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadContext.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadHandler.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadHandler.swiftdeps"
+  },
+  "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/checkouts/swift-nio-extras/Sources/NIOResumableUpload/HTTPResumableUploadProtocol.swift": {
+    "dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.d",
+    "object": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.swift.o",
+    "swiftmodule": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/HTTPResumableUploadProtocol.swiftdeps"
+  }
+}

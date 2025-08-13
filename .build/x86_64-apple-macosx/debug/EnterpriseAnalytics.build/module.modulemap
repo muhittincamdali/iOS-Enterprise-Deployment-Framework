@@ -1,0 +1,4 @@
+module EnterpriseAnalytics {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/EnterpriseAnalytics.build/EnterpriseAnalytics-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NIOHTTPTypesHTTP1 {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOHTTPTypesHTTP1.build/NIOHTTPTypesHTTP1-Swift.h"
+    requires objc
+}
