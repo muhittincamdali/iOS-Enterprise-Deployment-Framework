@@ -1,0 +1,4 @@
+module NIOResumableUpload {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOResumableUpload.build/NIOResumableUpload-Swift.h"
+    requires objc
+}

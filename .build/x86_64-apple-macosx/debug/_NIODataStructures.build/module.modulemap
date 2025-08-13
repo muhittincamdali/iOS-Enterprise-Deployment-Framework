@@ -1,0 +1,4 @@
+module _NIODataStructures {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/_NIODataStructures.build/_NIODataStructures-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NIOTestUtils {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/NIOTestUtils.build/NIOTestUtils-Swift.h"
+    requires objc
+}

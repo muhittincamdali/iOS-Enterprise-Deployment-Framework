@@ -1,0 +1,4 @@
+module _NIOBase64 {
+    header "/Users/muhittincamdali/Desktop/Cursor Projects/GitHub/iOS-Enterprise-Deployment-Framework/.build/x86_64-apple-macosx/debug/_NIOBase64.build/_NIOBase64-Swift.h"
+    requires objc
+}
